@@ -1,0 +1,58 @@
+14:39:22.838 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					entrée dans : delete
+ 
+14:39:22.984 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					Sortie de : delete
+ 
+14:39:23.015 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					entrée dans : saveEmployee
+ 
+14:39:23.046 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					Sortie de : saveEmployee
+ 
+14:39:23.078 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					entrée dans : saveEmployee
+ 
+14:39:23.078 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					Sortie de : saveEmployee
+ 
+14:39:23.109 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					entrée dans : saveEmployee
+ 
+14:39:23.124 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					Sortie de : saveEmployee
+ 
+14:39:23.156 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					entrée dans : findAllEmployees
+ 
+14:39:23.171 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					Sortie de : findAllEmployees
+ 
+14:39:23.202 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					entrée dans : findBySsn
+ 
+14:39:23.234 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					Sortie de : findBySsn
+ 
+14:39:23.265 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					entrée dans : findBySsn
+ 
+14:39:23.265 [main] [INFO ] fr.dta.config.AopConfiguration - l'employee avec l'ssn : 0123456789 n'existe pas 
+14:39:23.296 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					entrée dans : updateEmployee
+ 
+14:39:23.296 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					Sortie de : updateEmployee
+ 
+14:39:23.343 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					entrée dans : findBySsn
+ 
+14:39:23.343 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					Sortie de : findBySsn
+ 
+14:39:23.374 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					entrée dans : updateAllEmployee
+ 
+14:39:23.374 [main] [INFO ] fr.dta.config.AopConfiguration - 
+					Sortie de : updateAllEmployee
+ 
